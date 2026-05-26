@@ -63,7 +63,7 @@ It leverages **ASP.NET Core Identity** for authentication/security and **Entity 
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/DibyaGit/SecureEcommerceApp.git
+git clone https://github.com/Giridhar706/SecureEcommerceApp.git
 ```
 
 ---
